@@ -52,6 +52,9 @@
     h2,
     h3,
     p {
-      font-size: 0.53rem;
+      font-size: 0.7rem;
+    }
+    .numberEmail {
+      font-size: 0.53rem
     }
   }

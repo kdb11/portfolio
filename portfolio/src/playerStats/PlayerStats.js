@@ -9,7 +9,7 @@ const PlayerStats = () => {
         <span id="playerStats__lines__thick"></span>
         <span id="playerStats__lines__thin"></span>
       </div>
-      <h2>+46736777079 • badwi@kth.se</h2>
+      <h2 className="numberEmail">+46736777079 • badwi@kth.se</h2>
     </div>
   );
 };
